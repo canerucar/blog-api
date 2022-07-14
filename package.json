@@ -1,0 +1,23 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canerucar/blog-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canerucar/blog-api/issues"
+  },
+  "homepage": "https://github.com/canerucar/blog-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
